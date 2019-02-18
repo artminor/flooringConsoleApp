@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+          http://www.springframework.org/schema/beans/spring-beans.xsd
+          http://www.springframework.org/schema/mvc
+          http://www.springframework.org/schema/mvc/spring-mvc.xsd
+          http://www.springframework.org/schema/tx
+          http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+          http://www.springframework.org/schema/context
+          http://www.springframework.org/schema/context/spring-context.xsd
+          http://www.springframework.org/schema/aop  
+          http://www.springframework.org/schema/aop/spring-aop-3.2.xsd">
+
+    <!-- Bean definitions go here -->
+    <bean id = "io" class ="com.swcguild.flooringco.ui.UserIOConsoleImpl" />
+    <bean id = "view" class="com.swcguild.flooringco.ui.FlooringCoView" >
+        <constructor-arg ref = "io"/>
+    </bean>
+    
+    <bean id = "orderDao" class = "com.swcguild.flooringco.dao.OrderDaoImpl" />
+    <bean id = "productDao" class = "com.swcguild.flooringco.dao.ProductDaoImpl" />
+    <bean id = "taxDao" class = "com.swcguild.flooringco.dao.TaxDaoImpl" />
+    <bean id = "config" class = "com.swcguild.flooringco.dao.ConfigDaoImpl" />
+
+    <bean id = "service" class = "com.swcguild.flooringco.service.ServiceLayerImpl">
+        <constructor-arg ref = "config" />
+        <constructor-arg ref = "orderDao"/>
+        <constructor-arg ref = "productDao"/>
+        <constructor-arg ref = "taxDao"/>
+    </bean>
+    
+    <bean id = "controller" class="com.swcguild.flooringco.controller.Controller">
+        <constructor-arg ref = "view"/>
+        <constructor-arg ref = "service"/>
+    </bean>    
+
+    <bean id = "auditDao" class = "com.swcguild.flooringco.advice.AuditDaoFileImpl">
+        <constructor-arg value="auditLog.txt"></constructor-arg>
+    </bean>
+    
+    <bean id = "errorAuditDao" class = "com.swcguild.flooringco.advice.AuditDaoFileImpl">
+        <constructor-arg value="errorLog.txt"></constructor-arg>
+    </bean>
+
+
+    <bean id = "loggingAspect" class = "com.swcguild.flooringco.advice.LoggingAspect">
+        <constructor-arg ref = "auditDao"/>
+    </bean>
+    
+    <bean id = "errorLoggingAspect" class="com.swcguild.flooringco.advice.LoggingAspect">
+        <constructor-arg ref = "errorAuditDao"></constructor-arg>
+    </bean> 
+
+
+    
+   
+    <aop:config>
+        <aop:aspect id="aspectLogging" ref="loggingAspect">
+            <aop:pointcut id = "pointCutAround"
+                          expression="execution(* com.swcguild.flooringco.service.*.*(..))"/>
+  
+            <aop:before method = "logMethodCall" pointcut-ref = "pointCutAround"/>
+
+        </aop:aspect>
+    
+        <aop:aspect id="errorLogging" ref="errorLoggingAspect">
+            <aop:pointcut id = "allServiceMethods"
+                          expression= "execution(* com.swcguild.flooringco.service.*.*(..))"/>
+
+            <aop:after-throwing 
+                method="writeExceptionLog"
+                throwing = "ex" pointcut-ref="allServiceMethods"/>
+        </aop:aspect>
+    </aop:config>
+</beans>

@@ -1,0 +1,1432 @@
+
+2018-09-22::createOrder:JohnDoeNYWood600
+2018-09-22::createOrder:RandallNYWood600
+2018-09-23::createOrder:RandallNYCarpet600
+2018-09-23::createOrder:
+2018-09-23::createOrder:
+2018-09-23::createOrder:
+2018-09-23::createOrder:Randall
+2018-09-23::createOrder:RandallOHCarpet600
+2018-09-23::createOrder:WiseGAWood700
+2018-09-23::createOrder:ClapperNJwood600
+2018-09-23::createOrder:RandallOHwood600
+2018-09-23::createOrder:RandallOHwood500
+2018-09-23::save:
+2018-09-23::createOrder:RandallOHcarpet500
+2018-09-23::save:
+2018-09-23::createOrder:WiseNYwood400
+2018-09-23::createOrder:JohnCAwood70
+2018-09-23::createOrder:WiseNYwood600
+2018-09-23::createOrder:WizeNYcarpet600
+2018-09-23::createOrder:WizeCAwood600
+2018-09-23::getDate:
+2018-09-23::validateDate:09232018
+2018-09-23::getDate:
+2018-09-23::getDate:
+2018-09-23::getDate:
+2018-09-23::createOrder:JohnsonNYwood500
+2018-09-23::save:
+2018-09-23::getDate:
+2018-09-23::createOrder:RandallOHwood600
+2018-09-23::save:
+2018-09-23::getDate:
+2018-09-23::createOrder:RandallOHwood800
+2018-09-23::save:
+2018-09-23::getDate:
+2018-09-23::createOrder:WizeNcarpet90
+2018-09-23::getDate:
+2018-09-23::createOrder:JohnNYwood900
+2018-09-23::getDate:
+2018-09-23::createOrder:RandallOHwood90
+2018-09-23::getAllOrders:09072018
+2018-09-23::getDate:
+2018-09-23::createOrder:RandallNYwood90
+2018-09-23::save:
+2018-09-23::exit:
+2018-09-23::exit:
+2018-09-23::exit:
+2018-09-23::getDate:
+2018-09-23::validateDate:09232018
+2018-09-23::createOrder:RandallOHwood900
+2018-09-23::getDate:
+2018-09-23::validateDate:09232018
+2018-09-23::createOrder:RandallOHwood900
+2018-09-23::createOrder:RandallOHWood900
+2018-09-23::createOrder:DanNYWood2000
+2018-09-23::createOrder:DanNYWood900
+2018-09-23::createOrder:DanMIWood900
+2018-09-23::createOrder:DanMIWood900
+2018-09-23::createOrder:DanMIWood900
+2018-09-23::createOrder:RandallMIWood900
+2018-09-23::createOrder:DanNYWood900
+2018-09-23::createOrder:WizeMIWood900
+2018-09-23::createOrder:NYWood900
+2018-09-23::createOrder:RandallNYWood900
+2018-09-23::createOrder:RandallNYWood900
+2018-09-23::createOrder:DanNYWood900
+2018-09-23::createOrder:JohnsonNYWood900
+2018-09-23::save:
+2018-09-23::createOrder:RandallNYWood100
+2018-09-23::createOrder:RandyNYWod900
+2018-09-23::createOrder:RandyNYWood900
+2018-09-24::createOrder:RandyNYWood900
+2018-09-24::createOrder:DanNYWood900
+2018-09-24::createOrder:RandallMIWood900
+2018-09-24::createOrder:RandallOHWood900
+2018-09-24::save:
+2018-09-24::createOrder:BlakeNYCarpet200
+2018-09-24::save:
+2018-09-24::createOrder:WiseMICarpet250
+2018-09-24::save:
+2018-09-24::createOrder:RandallOHWood900
+2018-09-24::save:
+2018-09-24::createOrder:BlakeNYWood800
+2018-09-24::save:
+2018-09-24::createOrder:DanOHCarpet200
+2018-09-24::save:
+2018-09-24::exit:
+2018-09-24::createOrder:DavidNYLaminate200
+2018-09-24::save:
+2018-09-24::createOrder:BlakeNYCarpet800
+2018-09-24::save:
+2018-09-24::createOrder:DanNYWood900
+2018-09-24::createOrder:RandallOHWood900
+2018-09-24::save:Randall, OH, Wood, null, 900, 9444.60
+2018-09-24::createOrder:DanNYLaminate900
+2018-09-24::createOrder:ClapperNYWood9000
+2018-09-24::save:Clapper, NY, Wood, null, 9000, 97119.00
+2018-09-24::createOrder:DavidMILaminate800
+2018-09-24::createOrder:JunMICarpet150
+2018-09-24::save:Jun, MI, Carpet, null, 150, 691.65
+2018-09-24::createOrder:ProdDNYWood900
+2018-09-24::createOrder:ProfDNYWood900
+2018-09-24::createOrder:ChenNYWood900
+2018-09-24::createOrder:DanNYWood900
+2018-09-24::createOrder:RandallNYWood900
+2018-09-24::save:Randall, NY, Wood, null, 900, 9711.90
+2018-09-24::createOrder:RandyNYWood900
+2018-09-24::save:Randy, NY, Wood, null, 900, 9711.90
+2018-09-24::createOrder:DanNYLaminate9000
+2018-09-24::save:Dan, NY, Laminate, null, 9000, 37768.50
+2018-09-24::createOrder:DanMIWood900
+2018-09-24::createOrder:JunMICarpet200
+2018-09-24::save:Jun, MI, Carpet, null, 200, 922.20
+2018-09-24::createOrder:DanNYLaminate900
+2018-09-24::save:Dan, NY, Laminate, null, 900, 3776.85
+2018-09-24::createOrder:JunOHWood800
+2018-09-24::createOrder:RandallNYWood900
+2018-09-24::createOrder:RandallNYWood900
+2018-09-24::save:Randall, NY, Wood, null, 900, 9711.90
+2018-09-24::createOrder:DanOHLaminate900
+2018-09-24::createOrder:WiseMIWood900
+2018-09-24::save:Wise, MI, Wood, null, 900, 9444.60
+2018-09-24::createOrder:DanNYWood900
+2018-09-24::createOrder:SecondNYLaminate800
+2018-09-24::save:Second, NY, Laminate, null, 800, 3357.20
+2018-09-24::createOrder:NYWood900
+2018-09-24::save:, NY, Wood, null, 900, 9711.90
+2018-09-24::createOrder:RandallNYWood900
+2018-09-24::save:Randall, NY, Wood, null, 900, 9711.90
+2018-09-24::createOrder:DanNYWood900
+2018-09-24::save:Dan, NY, Wood, null, 900, 9711.90
+2018-09-24::createOrder:DanNYwood900
+2018-09-24::createOrder:Chen,JunNYWood900
+2018-09-24::save:Chen,Jun, NY, Wood, null, 900, 9711.90
+2018-09-24::validateName:,
+2018-09-24::validateName:,
+2018-09-24::validateName:,
+2018-09-24::validateName:Dan
+2018-09-24::createOrder:DanNYWood900
+2018-09-25::validateName:Wise
+2018-09-25::createOrder:WiseNYWood900
+2018-09-25::save:Name: Wise, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::getAllOrders:09252018
+2018-09-25::getAllOrders:09242018
+2018-09-25::getAllOrders:09252018
+2018-09-25::getAllOrders:09242018
+2018-09-25::validateName:Wise
+2018-09-25::createOrder:WiseNYWood900
+2018-09-25::save:Name: Wise, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::validateName:John
+2018-09-25::createOrder:JohnMILaminate800
+2018-09-25::save:Name: John, State:  MI, Product Type: Laminate, OrderDate: null, Area: 800, Total: 3264.80
+2018-09-25::validateName:Jun
+2018-09-25::createOrder:JunOHLaminate200
+2018-09-25::save:Name: Jun, State:  OH, Product Type: Laminate, OrderDate: null, Area: 200, Total: 816.20
+2018-09-25::getAllOrders:09252018
+2018-09-25::validateName:Johnson
+2018-09-25::createOrder:JohnsonNYLaminate800
+2018-09-25::validateName:Jun
+2018-09-25::createOrder:JunMIWood700
+2018-09-25::save:Name: Jun, State:  MI, Product Type: Wood, OrderDate: null, Area: 700, Total: 7345.80
+2018-09-25::validateName:Jun
+2018-09-25::createOrder:JunNYWood900
+2018-09-25::save:Name: Jun, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::validateName:Jason
+2018-09-25::createOrder:JasonNYWood900
+2018-09-25::save:Name: Jason, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::validateName:Randall
+2018-09-25::createOrder:RandallOHWood800
+2018-09-25::save:Name: Randall, State:  OH, Product Type: Wood, OrderDate: null, Area: 800, Total: 8395.20
+2018-09-25::validateName:Randall
+2018-09-25::createOrder:RandallNYWood900
+2018-09-25::save:Name: Randall, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::validateName:Chen, Jun
+2018-09-25::createOrder:chen,NYWood900
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::save:Name: Chen, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::createOrder:JunNYWood900
+2018-09-25::createOrder:RandallMIWood900
+2018-09-25::createOrder:LiangNYWood900
+2018-09-25::save:Name: Liang, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::createOrder:WongNYWood900
+2018-09-25::createOrder:LimNYWood900
+2018-09-25::save:Name: Lim, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::createOrder:JimNYWood900
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::save:Name: Chen, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::save:Name: Chen, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::createOrder:JunNYYWood90
+2018-09-25::createOrder:JasonNYWood800
+2018-09-25::save:Name: Jason, State:  NY, Product Type: Wood, OrderDate: null, Area: 800, Total: 8632.80
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::save:Name: Chen, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::createOrder:PeanutNYWood900
+2018-09-25::save:Name: Peanut, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-09-25::createOrder:JohnMIWood900
+2018-09-25::save:Name: John, State:  MI, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-09-25::createOrder:ChenNYWood100
+2018-09-25::save:Name: Chen, State:  NY, Product Type: Wood, OrderDate: null, Area: 100, Total: 1079.10
+2018-09-25::getAllOrders:09232018
+2018-09-25::createOrder:VishNYWood900
+2018-09-25::createOrder:DanNYWood900
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::createOrder:ChenNYWood800
+2018-09-25::save:09252018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 09252018, Area: 800, Total: 8632.80
+2018-09-25::createOrder:JunNYWood200
+2018-09-25::save:09252018Name: Jun, State:  NY, Product Type: Wood, OrderDate: 09252018, Area: 200, Total: 2158.20
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::save:09252018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 09252018, Area: 900, Total: 9711.90
+2018-09-25::createOrder:ChenNYTile10
+2018-09-25::save:09252018Name: Chen, State:  NY, Product Type: Tile, OrderDate: 09252018, Area: 10, Total: 83.39
+2018-09-25::getAllOrders:09252018
+2018-09-25::createOrder:ChenNYTile900
+2018-09-25::createOrder:ChenMIWood900
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::createOrder:ChenNY3000
+2018-09-25::createOrder:ChenNYWood200
+2018-09-25::createOrder:ChenNYWood900
+2018-09-25::createOrder:chenNYWood900
+2018-09-25::createOrder:CHenNYWood300
+2018-09-25::createOrder:ChenNYWood300
+2018-09-25::createOrder:ChenWTWood900
+2018-09-25::createOrder:chenNYWood200
+2018-09-26::getAllOrders:2018-09-25
+2018-09-26::getAllOrders:2018-09-26
+2018-09-26::getAllOrders:2918-09-24
+2018-09-26::getAllOrders:2018-09-24
+2018-09-26::getAllOrders:2018-09-24
+2018-09-26::createOrder:ChenNYWood900
+2018-09-26::createOrder:ChenNYWood900
+2018-09-26::createOrder:ChenNYWood900
+2018-09-26::save:09262018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 09262018, Area: 900, Total: 9711.90
+2018-09-26::getAllOrders:2018-09-24
+2018-09-26::getAllOrders:2018-09-24
+2018-09-26::createOrder:ChenNYWood900
+2018-09-26::createOrder:ChenOHWood900
+2018-09-26::save:09262018Name: Chen, State:  OH, Product Type: Wood, OrderDate: 09262018, Area: 900, Total: 9444.60
+2018-09-26::createOrder:ChenNYWood900
+2018-09-26::save:09262018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 09262018, Area: 900, Total: 9711.90
+2018-09-26::createOrder:ChenNYWood900
+2018-09-26::save:09262018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 09262018, Area: 900, Total: 9711.90
+2018-09-26::createOrder:DanMITile900
+2018-09-26::save:09262018Name: Dan, State:  MI, Product Type: Tile, OrderDate: 09262018, Area: 900, Total: 7298.10
+2018-09-26::createOrder:RandallOHLaminate200
+2018-09-26::createOrder:JaniceOHWOod900
+2018-09-26::createOrder:JaniceOHWood800
+2018-09-26::createOrder:JaneOHWood900
+2018-09-26::save:09262018Name: Jane, State:  OH, Product Type: Wood, OrderDate: 09262018, Area: 900, Total: 9444.60
+2018-09-26::getAllOrders:2018-09-24
+2018-09-26::createOrder:ChenNYWood900
+2018-09-26::save:09262018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 09262018, Area: 900, Total: 9711.90
+2018-09-26::getStringDate:2018-09-23
+2018-09-26::getAllOrders:09232018
+2018-09-26::getStringDate:2018-09-23
+2018-09-26::getAllOrders:09232018
+2018-09-26::createOrder:ChenNYWood900
+2018-09-27::getStringDate:2018-09-25
+2018-09-27::getStringDate:2018-09-24
+2018-09-27::getAllOrders:09242018
+2018-09-27::createOrder:MoneyNYWood900
+2018-09-27::save:09272018Name: Money, State:  NY, Product Type: Wood, OrderDate: 09272018, Area: 900, Total: 9711.90
+2018-09-27::createOrder:CashNYWood900
+2018-09-27::save:09272018Name: Cash, State:  NY, Product Type: Wood, OrderDate: 09272018, Area: 900, Total: 9711.90
+2018-09-27::getStringDate:2018-09-27
+2018-09-27::getAllOrders:09272018
+2018-09-27::exit:
+2018-09-27::getStringDate:2018-09-25
+2018-09-27::createOrder:ZachOHWood900
+2018-09-27::save:09272018Name: Zach, State:  OH, Product Type: Wood, OrderDate: 09272018, Area: 900, Total: 9444.60
+2018-09-28::getStringDate:2018-09-27
+2018-09-28::getAllOrders:09272018
+2018-09-28::createOrder:RyanOHWood900
+2018-09-28::save:09282018Name: Ryan, State:  OH, Product Type: Wood, OrderDate: 09282018, Area: 900, Total: 9444.60
+2018-09-28::createOrder:RyanNYWood900
+2018-09-28::save:09282018Name: Ryan, State:  NY, Product Type: Wood, OrderDate: 09282018, Area: 900, Total: 9711.90
+2018-09-28::createOrder:RyanNYwood900
+2018-09-28::createOrder:ChenNYWooddd900
+2018-09-28::validateState:
+2018-09-28::getStringDate:2018-09-25
+2018-09-28::getAllOrders:09252018
+2018-10-01::createOrder:ChenNYWood900
+2018-10-01::save:10012018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10012018, Area: 900, Total: 9711.90
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:10012018Name: Zach, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-01::createOrder:ChenNYWood900
+2018-10-01::save:10012018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10012018, Area: 900, Total: 9711.90
+2018-10-01::createOrder:ChenNYWood900
+2018-10-01::save:10012018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10012018, Area: 900, Total: 9711.90
+2018-10-01::createOrder:ChenNYWood900
+2018-10-01::save:10012018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10012018, Area: 900, Total: 9711.90
+2018-10-01::createOrder:ChenNYWood900
+2018-10-01::save:10012018Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10012018, Area: 900, Total: 9711.90
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getAllOrders:10012018
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:10012018Name: Chen, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-10-01::createOrder:ChenNYLaminate99
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:OhLaminate9999
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::deleteOrder:100120181
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::deleteOrder:100120181
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getAllOrders:10012018
+2018-10-01::createOrder:VincentOHLaminate900
+2018-10-01::getStringDate:2018-10-02
+2018-10-01::getAllOrders:10022018
+2018-10-01::getStringDate:2018-10-02
+2018-10-01::getAllOrders:10022018
+2018-10-01::getStringDate:2018-10-03
+2018-10-01::getAllOrders:10032018
+2018-10-01::getStringDate:2018-10-03
+2018-10-01::getAllOrders:10032018
+2018-10-01::getStringDate:2018-10-03
+2018-10-01::getAllOrders:10032018
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getAllOrders:10012018
+2018-10-01::createOrder:JohanOHLaminate900
+2018-10-01::addOrder:Name: Johan, State:  OH, Product Type: Laminate, OrderDate: 10012018, Area: 900, Total: 3672.90
+2018-10-01::save:10012018Name: Johan, State:  OH, Product Type: Laminate, OrderDate: 10012018, Area: 900, Total: 3672.90
+2018-10-01::getStringDate:2018-10-03
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:OHLaminate200
+2018-10-01::getStringDate:2013-06-01
+2018-10-01::getAllOrders:06012013
+2018-10-01::createOrder:PutinOHWood900
+2018-10-01::addOrder:Name: Putin, State:  OH, Product Type: Wood, OrderDate: 10012018, Area: 900, Total: 9444.60
+2018-10-01::save:10012018Name: Putin, State:  OH, Product Type: Wood, OrderDate: 10012018, Area: 900, Total: 9444.60
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:JaneMILaminate250
+2018-10-01::getStringDate:2013-06-01
+2018-10-01::getOrder:060120131
+2018-10-01::editOrder:JanetOhWood150
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JanetOHWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneOHLaminate150
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneNYWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneOHWood150
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneNYWood150
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneOhLaminate900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneOHWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneOHWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneNYWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneOHWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneNYWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneOHLaminate900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneNYWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneNYWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneNYWood900
+2018-10-01::getStringDate:2018-10-01
+2018-10-01::getOrder:100120181
+2018-10-01::editOrder:100120181JaneNYWood900
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120181
+2018-10-02::editOrder:100120181JaneNYWood900
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120181
+2018-10-02::editOrder:100120181JaneNYWood900
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120181
+2018-10-02::editOrder:100120181JaneNYWood900
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120181
+2018-10-02::editOrder:100120181JaneNYWood900
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120181
+2018-10-02::editOrder:100120181JaneNYWood900
+2018-10-02::createOrder:JackieMILaminate150
+2018-10-02::addOrder:Name: Jackie, State:  MI, Product Type: Laminate, OrderDate: 10022018, Area: 150, Total: 612.15
+2018-10-02::save:10022018Name: Jackie, State:  MI, Product Type: Laminate, OrderDate: 10022018, Area: 150, Total: 612.15
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120181
+2018-10-02::deleteOrder:100120181
+2018-10-02::exit:
+2018-10-02::getStringDate:2018-10-03
+2018-10-02::getAllOrders:10032018
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getAllOrders:10022018
+2018-10-02::getStringDate:2018-10-03
+2018-10-02::createOrder:VincentOHTile840
+2018-10-02::addOrder:Name: Vincent, State:  OH, Product Type: Tile, OrderDate: 10022018, Area: 840, Total: 6811.56
+2018-10-02::save:10022018Name: Vincent, State:  OH, Product Type: Tile, OrderDate: 10022018, Area: 840, Total: 6811.56
+2018-10-02::createOrder:JackieNYWood850
+2018-10-02::addOrder:Name: Jackie, State:  NY, Product Type: Wood, OrderDate: 10022018, Area: 850, Total: 9172.35
+2018-10-02::save:10022018Name: Jackie, State:  NY, Product Type: Wood, OrderDate: 10022018, Area: 850, Total: 9172.35
+2018-10-02::createOrder:DianeMILaminate550
+2018-10-02::addOrder:Name: Diane, State:  MI, Product Type: Laminate, OrderDate: 10022018, Area: 550, Total: 2244.55
+2018-10-02::save:10022018Name: Diane, State:  MI, Product Type: Laminate, OrderDate: 10022018, Area: 550, Total: 2244.55
+2018-10-02::createOrder:SteveNYWood180
+2018-10-02::addOrder:Name: Steve, State:  NY, Product Type: Wood, OrderDate: 10022018, Area: 180, Total: 1942.38
+2018-10-02::createOrder:SteveNYTile150
+2018-10-02::addOrder:Name: Steve, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 150, Total: 1250.78
+2018-10-02::createOrder:SteveNYTlie900
+2018-10-02::createOrder:SteveNYTile900
+2018-10-02::addOrder:Name: Steve, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 900, Total: 7504.65
+2018-10-02::createOrder:MelindaMITile600
+2018-10-02::addOrder:Name: Melinda, State:  MI, Product Type: Tile, OrderDate: 10022018, Area: 600, Total: 4865.40
+2018-10-02::createOrder:BillOHWood800
+2018-10-02::addOrder:Name: Bill, State:  OH, Product Type: Wood, OrderDate: 10022018, Area: 800, Total: 8395.20
+2018-10-02::createOrder:BillOHLaminate450
+2018-10-02::addOrder:Name: Bill, State:  OH, Product Type: Laminate, OrderDate: 10022018, Area: 450, Total: 1836.45
+2018-10-02::createOrder:MarkMILaminate850
+2018-10-02::addOrder:Name: Mark, State:  MI, Product Type: Laminate, OrderDate: 10022018, Area: 850, Total: 3468.85
+2018-10-02::createOrder:ChenOHWood800
+2018-10-02::addOrder:Name: Chen, State:  OH, Product Type: Wood, OrderDate: 10022018, Area: 800, Total: 8395.20
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220181
+2018-10-02::editOrder:100220181SteveMIWood900
+2018-10-02::getStringDate:2013-06-01
+2018-10-02::getAllOrders:06012013
+2018-10-02::getStringDate:2013-05-01
+2018-10-02::getAllOrders:05012013
+2018-10-02::createOrder:SteverNYWood850
+2018-10-02::addOrder:Name: Stever, State:  NY, Product Type: Wood, OrderDate: 10022018, Area: 850, Total: 9172.35
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::createOrder:SteveNYTile400
+2018-10-02::addOrder:Name: Steve, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 400, Total: 3335.40
+2018-10-02::save:Name: Steve, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 400, Total: 3335.40
+2018-10-02::createOrder:SteveNYTile500
+2018-10-02::addOrder:Name: Steve, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 500, Total: 4169.25
+2018-10-02::save:Name: Steve, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 500, Total: 4169.25
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185PutinNYWood400
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185SatinNYTile800
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185SatinNYTile500
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185SatinNYTile500
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185SeanNYTile400
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getAllOrders:10022018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220181
+2018-10-02::createOrder:DianeOH300
+2018-10-02::createOrder:DianeOHLaminate800
+2018-10-02::addOrder:Name: Diane, State:  OH, Product Type: Laminate, OrderDate: 10022018, Area: 800, Total: 3264.80
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220183
+2018-10-02::createOrder:DianeOHLaminate800
+2018-10-02::addOrder:Name: Diane, State:  OH, Product Type: Laminate, OrderDate: 10022018, Area: 800, Total: 3264.80
+2018-10-02::createOrder:DianeMILaminate800
+2018-10-02::addOrder:Name: Diane, State:  MI, Product Type: Laminate, OrderDate: 10022018, Area: 800, Total: 3264.80
+2018-10-02::save:Name: Diane, State:  MI, Product Type: Laminate, OrderDate: 10022018, Area: 800, Total: 3264.80
+2018-10-02::createOrder:SteveNYTile800
+2018-10-02::addOrder:Name: Steve, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 800, Total: 6670.80
+2018-10-02::save:Name: Steve, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 800, Total: 6670.80
+2018-10-02::createOrder:NYWood800
+2018-10-02::addOrder:Name: , State:  NY, Product Type: Wood, OrderDate: 10022018, Area: 800, Total: 8632.80
+2018-10-02::createOrder:JohnnyNYTile800
+2018-10-02::addOrder:Name: Johnny, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 800, Total: 6670.80
+2018-10-02::save:Name: Johnny, State:  NY, Product Type: Tile, OrderDate: 10022018, Area: 800, Total: 6670.80
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220183
+2018-10-02::deleteOrder:100220183
+2018-10-02::save:Name: Johnny, State:  NY, Product Type: Tile, OrderDate: null, Area: 800, Total: 6670.80
+2018-10-02::save:Name: Johnny, State:  NY, Product Type: Tile, OrderDate: null, Area: 800, Total: 6670.80
+2018-10-02::save:Name: Johnny, State:  NY, Product Type: Tile, OrderDate: null, Area: 800, Total: 6670.80
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenOHWood765
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenOHTile800
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenMITile800
+2018-10-02::save:Name: Chen, State:  MI, Product Type: Tile, OrderDate: null, Area: 900, Total: 6487.20
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenNYTile850
+2018-10-02::save:Name: Chen, State:  NY, Product Type: Tile, OrderDate: null, Area: 900, Total: 7087.73
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenNYTile453
+2018-10-02::save:Name: Chen, State:  NY, Product Type: Tile, OrderDate: null, Area: 900, Total: 3777.34
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenOHTile253
+2018-10-02::save:Name: Chen, State:  OH, Product Type: Tile, OrderDate: null, Area: 900, Total: 2051.58
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220185
+2018-10-02::deleteOrder:100220185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenNYTile345
+2018-10-02::save:Name: Chen, State:  NY, Product Type: Tile, OrderDate: null, Area: 900, Total: 2876.78
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenMITile2345
+2018-10-02::save:Name: Chen, State:  MI, Product Type: Tile, OrderDate: null, Area: 900, Total: 19015.61
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::exit:
+2018-10-02::createOrder:ChenMITile245
+2018-10-02::addOrder:Name: Chen, State:  MI, Product Type: Tile, OrderDate: 10022018, Area: 245, Total: 1986.71
+2018-10-02::save:Name: Chen, State:  MI, Product Type: Tile, OrderDate: 10022018, Area: 245, Total: 1986.71
+2018-10-02::getStringDate:1018-10-02
+2018-10-02::getOrder:100210184
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220185
+2018-10-02::deleteOrder:100220185
+2018-10-02::save:Name: Chen, State:  MI, Product Type: Tile, OrderDate: null, Area: 245, Total: 1986.71
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220183
+2018-10-02::deleteOrder:100220183
+2018-10-02::save:Name: John, State:  NY, Product Type: Wood, OrderDate: null, Area: 900, Total: 9711.90
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getAllOrders:10022018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185PutinNYTile399
+2018-10-02::save:Name: Putin, State:  NY, Product Type: Tile, OrderDate: null, Area: 900, Total: 3327.06
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenNYTile245
+2018-10-02::save:Name: Chen, State:  NY, Product Type: Tile, OrderDate: null, Area: 900, Total: 2042.93
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120183
+2018-10-02::editOrder:100120183PennyMITile2345
+2018-10-02::save:Name: Penny, State:  MI, Product Type: Tile, OrderDate: null, Area: 900, Total: 19015.61
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120184
+2018-10-02::editOrder:100120184JohnsonOHLaminate2567
+2018-10-02::save:Name: Johnson, State:  OH, Product Type: Laminate, OrderDate: null, Area: 900, Total: 10475.93
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185LilyOHLaminate584
+2018-10-02::save:Name: Lily, State:  OH, Product Type: Laminate, OrderDate: null, Area: 900, Total: 2383.30
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120184
+2018-10-02::editOrder:100120184LilyMITile265
+2018-10-02::save:Name: Lily, State:  MI, Product Type: Tile, OrderDate: null, Area: 900, Total: 2148.89
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120184
+2018-10-02::editOrder:100120184PenceMITile2564
+2018-10-02::save:Name: Pence, State:  MI, Product Type: Tile, OrderDate: null, Area: 900, Total: 20791.48
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120183
+2018-10-02::editOrder:100120183ObamaMILaminate256
+2018-10-02::save:Name: Obama, State:  MI, Product Type: Laminate, OrderDate: null, Area: 900, Total: 1044.74
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120182
+2018-10-02::editOrder:100120182JasonMICarpet2456
+2018-10-02::save:Name: Jason, State:  MI, Product Type: Carpet, OrderDate: null, Area: 900, Total: 11324.62
+2018-10-02::createOrder:MichelleOHTile26577
+2018-10-02::addOrder:Name: Michelle, State:  OH, Product Type: Tile, OrderDate: 10022018, Area: 26577, Total: 215512.89
+2018-10-02::createOrder:WendyNYWood367
+2018-10-02::addOrder:Name: Wendy, State:  NY, Product Type: Wood, OrderDate: 10022018, Area: 367, Total: 3960.30
+2018-10-02::save:Name: Wendy, State:  NY, Product Type: Wood, OrderDate: 10022018, Area: 367, Total: 3960.30
+2018-10-02::createOrder:VincentOHTile3864
+2018-10-02::save:Name: Vincent, State:  OH, Product Type: Tile, OrderDate: 10022018, Area: 3864, Total: 31333.18
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220185
+2018-10-02::deleteOrder:100220185
+2018-10-02::save:Name: Putin, State:  OH, Product Type: Wood, OrderDate: null, Area: 900, Total: 9444.60
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Chen, State:  NY, Product Type: Tile, OrderDate: null, Area: 900, Total: 2042.93
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Chen, State:  NY, Product Type: Tile, OrderDate: null, Area: 900, Total: 2042.93
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120184
+2018-10-02::editOrder:100120184MichelleOHTile2345
+2018-10-02::save:Name: Michelle, State:  OH, Product Type: Tile, OrderDate: null, Area: 900, Total: 19015.61
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185JaneNYTile6367
+2018-10-02::save:Name: Jane, State:  NY, Product Type: Tile, OrderDate: null, Area: 900, Total: 53091.23
+2018-10-02::getStringDate:2019-10-01
+2018-10-02::getOrder:100120195
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185JaneNYCarpet26775
+2018-10-02::save:Name: Jane, State:  NY, Product Type: Carpet, OrderDate: null, Area: 900, Total: 126953.66
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::editOrder:100120185ChenNYCarpet23456
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Chen, State:  NY, Product Type: Carpet, OrderDate: null, Area: 900, Total: 111216.62
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220184
+2018-10-02::deleteOrder:100220184
+2018-10-02::save:Name: Johnson, State:  OH, Product Type: Laminate, OrderDate: null, Area: 900, Total: 10475.93
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::save:Name: Chen, State:  NY, Product Type: Carpet, OrderDate: null, Area: 900, Total: 111216.62
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120185
+2018-10-02::deleteOrder:100120185
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220184
+2018-10-02::deleteOrder:100220184
+2018-10-02::save:Name: Johnson, State:  OH, Product Type: Laminate, OrderDate: null, Area: 900, Total: 10475.93
+2018-10-02::getStringDate:3013-06-01
+2018-10-02::getOrder:060130132
+2018-10-02::getStringDate:3053-09-21
+2018-10-02::getAllOrders:09213053
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getOrder:100120183
+2018-10-02::createOrder:WinnieOHWood2356
+2018-10-02::addOrder:Name: Winnie, State:  OH, Product Type: Wood, OrderDate: 10022018, Area: 2356, Total: 24723.86
+2018-10-02::save:Name: Winnie, State:  OH, Product Type: Wood, OrderDate: 10022018, Area: 2356, Total: 24723.86
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getAllOrders:10022018
+2018-10-02::getStringDate:2018-10-01
+2018-10-02::getAllOrders:10012018
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220183
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220182
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220187
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220189
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getAllOrders:10022018
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220185
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220186
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220187
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220188
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220189
+2018-10-02::getStringDate:2018-10-02
+2018-10-02::getOrder:100220189
+2018-10-02::exit:
+2018-10-03::getStringDate:2018-10-01
+2018-10-03::getOrder:100120185
+2018-10-03::editOrder:100120185SteveOHCarpet120
+2018-10-03::save:Name: Steve, State:  OH, Product Type: Carpet, OrderDate: null, Area: 900, Total: 553.32
+2018-10-03::getStringDate:2018-10-01
+2018-10-03::getOrder:100120185
+2018-10-03::deleteOrder:100120185
+2018-10-03::save:Name: Steve, State:  OH, Product Type: Carpet, OrderDate: null, Area: 900, Total: 553.32
+2018-10-03::exit:
+2018-10-03::createOrder:DianeMITile140
+2018-10-03::addOrder:Name: Diane, State:  MI, Product Type: Tile, OrderDate: 10032018, Area: 140, Total: 1135.26
+2018-10-03::save:Name: Diane, State:  MI, Product Type: Tile, OrderDate: 10032018, Area: 140, Total: 1135.26
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-01
+2018-10-03::getAllOrders:10012018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-01
+2018-10-03::getAllOrders:10012018
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220183
+2018-10-03::createOrder:PenNYWood300
+2018-10-03::addOrder:Name: Pen, State:  NY, Product Type: Wood, OrderDate: 10032018, Area: 300, Total: 3237.30
+2018-10-03::save:Name: Pen, State:  NY, Product Type: Wood, OrderDate: 10032018, Area: 300, Total: 3237.30
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:100320181
+2018-10-03::editOrder:100320181ChenOHTile900
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220183
+2018-10-03::editOrder:100220183ChenOHWood460
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920186
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220186
+2018-10-03::deleteOrder:100220186
+2018-10-03::save:Name: Pen, State:  NY, Product Type: Wood, OrderDate: null, Area: 300, Total: 3237.30
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220184
+2018-10-03::deleteOrder:100220184
+2018-10-03::save:Name: Johnson, State:  OH, Product Type: Laminate, OrderDate: null, Area: 900, Total: 10475.93
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-28
+2018-10-03::getOrder:092820185
+2018-10-03::deleteOrder:092820185
+2018-10-03::save:Name: Diane, State:  MI, Product Type: Tile, OrderDate: null, Area: 140, Total: 1135.26
+2018-10-03::loadInformationUponStart:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-01
+2018-10-03::getOrder:100120184
+2018-10-03::loadInformationUponStart:
+2018-10-03::createOrder:ObamaNYLaminate256
+2018-10-03::addOrder:Name: Obama, State:  NY, Product Type: Laminate, OrderDate: 10032018, Area: 256, Total: 1074.30
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-27
+2018-10-03::getAllOrders:09272018
+2018-10-03::getStringDate:2018-09-27
+2018-10-03::getOrder:092720188
+2018-10-03::deleteOrder:092720188
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:100320187
+2018-10-03::deleteOrder:100320187
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:100320186
+2018-10-03::deleteOrder:100320186
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:100320185
+2018-10-03::editOrder:100320185MichelleNYWood386
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:100320182
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:100320185
+2018-10-03::deleteOrder:100320185
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getAllOrders:09292018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getAllOrders:09292018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2013-06-04
+2018-10-03::getAllOrders:06042013
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-28
+2018-10-03::getAllOrders:09282018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920185
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::loadInformationUponStart:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::loadInformationUponStart:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220189
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getAllOrders:09292018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getAllOrders:09292018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220189
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getOrder:092920189
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220189
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220189
+2018-10-03::loadInformationUponStart:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-29
+2018-10-03::getAllOrders:09292018
+2018-10-03::loadInformationUponStart:
+2018-10-03::loadInformationUponStart:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadInformationUponStart:
+2018-10-03::save:
+2018-10-03::exit:
+2018-10-03::loadInformationUponStart:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220183
+2018-10-03::editOrder:100220183ObamaNYTile3764
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::createOrder:MichelleNYLaminate8376854
+2018-10-03::addOrder:Name: Michelle, State:  NY, Product Type: Laminate, OrderDate: 10032018, Area: 8376854, Total: 35153467.81
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::createOrder:MichelleObamaNYWood28556
+2018-10-03::addOrder:Name: MichelleObama, State:  NY, Product Type: Wood, OrderDate: 10032018, Area: 28556, Total: 308147.80
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::createOrder:WarrenMIWood23485
+2018-10-03::addOrder:Name: Warren, State:  MI, Product Type: Wood, OrderDate: 10032018, Area: 23485, Total: 246451.59
+2018-10-03::save:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-25
+2018-10-03::getAllOrders:09252018
+2018-10-03::getStringDate:2018-09-25
+2018-10-03::getAllOrders:09252018
+2018-10-03::getStringDate:2018-09-26
+2018-10-03::getAllOrders:09262018
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-09-25
+2018-10-03::getAllOrders:09252018
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220189
+2018-10-03::loadInformationUponStart:
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadInformationUponStart:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220184
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-09-25
+2018-10-03::getOrder:0925201812
+2018-10-03::save:
+2018-10-03::save:
+2018-10-03::getStringDate:2018-09-25
+2018-10-03::getOrder:0925201812
+2018-10-03::save:
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-09-25
+2018-10-03::getAllOrders:09252018
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:1003201812
+2018-10-03::editOrder:1003201812ChenNYTile23466
+2018-10-03::save:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:1003201812
+2018-10-03::deleteOrder:1003201812
+2018-10-03::save:
+2018-10-03::createOrder:MichaelOHLaminate3456
+2018-10-03::addOrder:Name: Michael, State:  OH, Product Type: Laminate, OrderDate: 10032018, Area: 3456, Total: 14103.94
+2018-10-03::save:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:100220186
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:1002201812
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-09-28
+2018-10-03::getOrder:0928201812
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:1002201811
+2018-10-03::editOrder:1002201811MichelleNYWood257854
+2018-10-03::save:
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:1002201811
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getOrder:1002201812
+2018-10-03::loadHashInfo:
+2018-10-03::createOrder:SteveMILaminate24556
+2018-10-03::addOrder:Name: Steve, State:  MI, Product Type: Laminate, OrderDate: 10032018, Area: 24556, Total: 100213.04
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getAllOrders:10032018
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getAllOrders:10032018
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getAllOrders:10032018
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-02
+2018-10-03::getAllOrders:10022018
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:100320183
+2018-10-03::loadHashInfo:
+2018-10-03::createOrder:KennethOJwood2345
+2018-10-03::loadHashInfo:
+2018-10-03::createOrder:AromaWRwwood3456
+2018-10-03::createOrder:StaceyWOWood2536
+2018-10-03::loadHashInfo:
+2018-10-03::getStringDate:2018-10-03
+2018-10-03::getOrder:1003201812
+2018-10-03::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-01-01
+2018-10-04::getAllOrders:01012018
+2018-10-04::createOrder:KevinOHLaminate24566
+2018-10-04::addOrder:Name: Kevin, State:  OH, Product Type: Laminate, OrderDate: 10042018, Area: 24566, Total: 100253.85
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:PalinOHWood23466
+2018-10-04::addOrder:Name: Palin, State:  OH, Product Type: Wood, OrderDate: 10042018, Area: 23466, Total: 246252.20
+2018-10-04::createOrder:KevinMIWood25664
+2018-10-04::addOrder:Name: Kevin, State:  MI, Product Type: Wood, OrderDate: 10042018, Area: 25664, Total: 269318.02
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getOrder:100420181
+2018-10-04::createOrder:KevinOHWood24356
+2018-10-04::addOrder:Name: Kevin, State:  OH, Product Type: Wood, OrderDate: 10042018, Area: 24356, Total: 255591.86
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getOrder:100420181
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getOrder:100220183
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::createOrder:KevinOHWood234664
+2018-10-04::addOrder:Name: Kevin, State:  OH, Product Type: Wood, OrderDate: 10042018, Area: 234664, Total: 2462564.02
+2018-10-04::save:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-09-25
+2018-10-04::getAllOrders:09252018
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getOrder:100220181
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-09-29
+2018-10-04::getAllOrders:09292018
+2018-10-04::getStringDate:2018-09-25
+2018-10-04::getAllOrders:09252018
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2013-10-02
+2018-10-04::getAllOrders:10022013
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:TammyNYWood24567
+2018-10-04::addOrder:Name: Tammy, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 24567, Total: 265102.50
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:TammyOHLaminate24356
+2018-10-04::addOrder:Name: Tammy, State:  OH, Product Type: Laminate, OrderDate: 10042018, Area: 24356, Total: 99396.84
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:TammyMICarpet23466
+2018-10-04::addOrder:Name: Tammy, State:  MI, Product Type: Carpet, OrderDate: 10042018, Area: 23466, Total: 108201.73
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-09-25
+2018-10-04::getAllOrders:09252018
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:JohnsonMIWood23456
+2018-10-04::addOrder:Name: Johnson, State:  MI, Product Type: Wood, OrderDate: 10042018, Area: 23456, Total: 246147.26
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:AlisonMICarpet23466
+2018-10-04::addOrder:Name: Alison, State:  MI, Product Type: Carpet, OrderDate: 10042018, Area: 23466, Total: 108201.73
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2013-06-01
+2018-10-04::getOrder:060120131
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:RandallNYWood234235
+2018-10-04::addOrder:Name: Randall, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 234235, Total: 2527629.89
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::createOrder:DannyOHCarpet23455
+2018-10-04::addOrder:Name: Danny, State:  OH, Product Type: Carpet, OrderDate: 10042018, Area: 23455, Total: 108151.01
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:DannyNYCarpet234235
+2018-10-04::addOrder:Name: Danny, State:  NY, Product Type: Carpet, OrderDate: 10042018, Area: 234235, Total: 1110625.25
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:DannyNYCarpet232423
+2018-10-04::addOrder:Name: Danny, State:  NY, Product Type: Carpet, OrderDate: 10042018, Area: 232423, Total: 1102033.65
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getOrder:100220181
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:KennyOHWood23425
+2018-10-04::addOrder:Name: Kenny, State:  OH, Product Type: Wood, OrderDate: 10042018, Area: 23425, Total: 245821.95
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getOrder:100220181
+2018-10-04::createOrder:KevinOHCarpet3145
+2018-10-04::addOrder:Name: Kevin, State:  OH, Product Type: Carpet, OrderDate: 10042018, Area: 3145, Total: 14501.60
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:ChenNYWood23455
+2018-10-04::addOrder:Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 23455, Total: 253102.91
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:ChenNYCarpet2345
+2018-10-04::addOrder:Name: Chen, State:  NY, Product Type: Carpet, OrderDate: 10042018, Area: 2345, Total: 11118.82
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-09-25
+2018-10-04::getAllOrders:09252018
+2018-10-04::getStringDate:2018-09-23
+2018-10-04::getAllOrders:09232018
+2018-10-04::getStringDate:2018-09-23
+2018-10-04::getOrder:092320181
+2018-10-04::editOrder:092320181PennyMITile23456
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getAllOrders:10042018
+2018-10-04::createOrder:ChenNYCarpet2345
+2018-10-04::addOrder:Name: Chen, State:  NY, Product Type: Carpet, OrderDate: 10042018, Area: 2345, Total: 11118.82
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::createOrder:ChenNYCarpet2345
+2018-10-04::addOrder:Name: Chen, State:  NY, Product Type: Carpet, OrderDate: 10042018, Area: 2345, Total: 11118.82
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:ChenNYCarpet23415
+2018-10-04::addOrder:Name: Chen, State:  NY, Product Type: Carpet, OrderDate: 10042018, Area: 23415, Total: 111022.22
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:ChenNYWood2341
+2018-10-04::addOrder:Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 2341, Total: 25261.73
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getOrder:100220181
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getOrder:100220185
+2018-10-04::deleteOrder:100220185
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320188
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320188
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320188
+2018-10-04::editOrder:100320188MichelleNYWood24356
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::createOrder:ChenNYWood2135
+2018-10-04::addOrder:Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 2135, Total: 23038.79
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320188
+2018-10-04::editOrder:100320188MichelleMILaminate234263
+2018-10-04::save:
+2018-10-04::createOrder:ChenMIWood234255
+2018-10-04::addOrder:Name: Chen, State:  MI, Product Type: Wood, OrderDate: 10042018, Area: 234255, Total: 2458271.97
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320188
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:TammyNYWood12315
+2018-10-04::addOrder:Name: Tammy, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 12315, Total: 132891.17
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320188
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320187
+2018-10-04::editOrder:100320187TammyMIWood2145
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2013-06-01
+2018-10-04::getOrder:0601201312
+2018-10-04::getStringDate:2013-06-01
+2018-10-04::getOrder:0601201312
+2018-10-04::editOrder:0601201312MichelleOHLaminate234355
+2018-10-04::save:
+2018-10-04::getStringDate:2013-06-01
+2018-10-04::getOrder:060120134
+2018-10-04::editOrder:060120134ClintonNYLaminate23415
+2018-10-04::save:
+2018-10-04::createOrder:TammyNYWood2341
+2018-10-04::addOrder:Name: Tammy, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 2341, Total: 25261.73
+2018-10-04::getStringDate:2013-06-01
+2018-10-04::getOrder:0601201312
+2018-10-04::deleteOrder:0601201312
+2018-10-04::save:
+2018-10-04::createOrder:TammyNYWood2351
+2018-10-04::addOrder:Name: Tammy, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 2351, Total: 25369.64
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::createOrder:VincentNYWood2345245
+2018-10-04::addOrder:Name: Vincent, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 2345245, Total: 25307538.80
+2018-10-04::save:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320185
+2018-10-04::deleteOrder:100320185
+2018-10-04::save:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320183
+2018-10-04::deleteOrder:100320183
+2018-10-04::save:
+2018-10-04::createOrder:ChenNYWood24325
+2018-10-04::addOrder:Name: Chen, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 24325, Total: 262491.08
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:TammyNYWood25325
+2018-10-04::addOrder:Name: Tammy, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 25325, Total: 273282.08
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:StephenMIWood234125
+2018-10-04::addOrder:Name: Stephen, State:  MI, Product Type: Wood, OrderDate: 10042018, Area: 234125, Total: 2456907.75
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320181
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2013-06-01
+2018-10-04::getOrder:060120135
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2013-06-01
+2018-10-04::getOrder:060120135
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getOrder:1002201812
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getAllOrders:10022018
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getAllOrders:10032018
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320184
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320183
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320181
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-02
+2018-10-04::getOrder:1002201812
+2018-10-04::deleteOrder:1002201812
+2018-10-04::save:
+2018-10-04::getStringDate:2018-10-03
+2018-10-04::getOrder:100320181
+2018-10-04::editOrder:100320181WalterOHTile235
+2018-10-04::save:
+2018-10-04::createOrder:DisneyNYWood32523
+2018-10-04::addOrder:Name: Disney, State:  NY, Product Type: Wood, OrderDate: 10042018, Area: 32523, Total: 350955.69
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::createOrder:ChenMIWood2345326
+2018-10-04::addOrder:Name: Chen, State:  MI, Product Type: Wood, OrderDate: 10042018, Area: 2345326, Total: 24611851.04
+2018-10-04::save:
+2018-10-04::getStringDate:2018-09-28
+2018-10-04::getOrder:0928201812
+2018-10-04::deleteOrder:0928201812
+2018-10-04::save:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getAllOrders:10042018
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getOrder:1004201812
+2018-10-04::loadHashInfo:
+2018-10-04::loadHashInfo:
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getAllOrders:10042018
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getOrder:100420181
+2018-10-04::createOrder:Bob::ClapperOHLava200
+2018-10-04::createOrder:RandallOHwood200
+2018-10-04::createOrder:RandallOHWood200
+2018-10-04::addOrder:Name: Randall, State:  OH, Product Type: Wood, OrderDate: 10042018, Area: 200, Total: 2098.80
+2018-10-04::save:
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getOrder:100420182
+2018-10-04::editOrder:100420182RandallOHTile200
+2018-10-04::save:
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getOrder:100420182
+2018-10-04::getStringDate:2018-10-04
+2018-10-04::getOrder:100420182
+2018-10-04::deleteOrder:100420182
+2018-10-04::save:
+2018-10-04::exit:
+2018-10-04::addOrder:Name: Randall, State:  OH, Product Type: Tile, OrderDate: 10042018, Area: 200, Total: 1621.80
+2018-10-04::save:
+2018-10-04::exit:
+2018-10-04::addOrder:Name: Randall, State:  OH, Product Type: Tile, OrderDate: 10042018, Area: 200, Total: 1621.80
+2018-10-04::loadHashInfo:
+2018-10-05::loadHashInfo:
+2018-10-05::createOrder:BlakeNYCarpet200

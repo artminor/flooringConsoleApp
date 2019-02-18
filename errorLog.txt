@@ -1,0 +1,165 @@
+2018-09-23::Customer Name is required:
+2018-09-23::Customer Name is required:
+2018-09-23::Customer Name is required:
+2018-09-23::null:
+2018-09-23::Not supported yet.:
+2018-09-23::Not supported yet.:
+2018-09-23::null:
+2018-09-23::null:
+2018-09-23::null:
+2018-09-23::null:
+2018-09-23::null:
+2018-09-23::null:
+2018-09-23::null:
+2018-09-23::-_- Could not load products data into memory.:
+2018-09-23::-_- Could not load products data into memory.:
+2018-09-23::-_- Could not load products data into memory.:
+2018-09-23::-_- Could not load products data into memory.:
+2018-09-23::-_- Could not load products data into memory.:
+2018-09-23::2:
+2018-09-23::2:
+2018-09-23::null:
+2018-09-24::null:
+2018-09-24::null:
+2018-09-24::null:
+2018-09-24::null:
+2018-09-24::null:
+2018-09-24::Please entere valid name. (without ","):
+2018-09-24::Please entere valid name.:
+2018-09-24::Please entere valid name.:
+2018-09-25::null:
+2018-09-25::Could not save order data.:
+2018-09-25::Could not save order data.:
+2018-09-25::Could not save order data.:
+2018-09-25::Could not save order data.:
+2018-09-25::Please entere valid name.:
+2018-09-25::Could not save order data.:
+2018-09-25::Scanner closed:
+2018-09-25::Could not save order data.:
+2018-09-25::Could not save order data.:
+2018-09-25::Could not save order data.:
+2018-09-25::Could not save order data.:
+2018-09-25::null:
+2018-09-25::Could not save order data.:
+2018-09-25::Could not save order data.:
+2018-09-25::Could not save order data.:
+2018-09-25::Text '09252018' could not be parsed at index 0:
+2018-09-25::Text '09252018' could not be parsed at index 0:
+2018-09-25::Text '09252018' could not be parsed at index 0:
+2018-09-25::Text '09252018' could not be parsed at index 0:
+2018-09-25::null:
+2018-09-25::Text '09252018' could not be parsed at index 0:
+2018-09-25::Text '09252018' could not be parsed at index 0:
+2018-09-25::Text '09252018' could not be parsed at index 0:
+2018-09-25::null:
+2018-09-25::Text '09252018' could not be parsed at index 0:
+2018-09-26::-_- Could not load orders data into memory.:
+2018-09-26::-_- Could not load orders data into memory.:
+2018-09-26::-_- Could not load orders data into memory.:
+2018-09-26::-_- Could not load orders data into memory.:
+2018-09-26::-_- Could not load orders data into memory.:
+2018-09-26::Could not save order data.:
+2018-09-26::-_- Could not load orders data into memory.:
+2018-09-26::-_- Could not load orders data into memory.:
+2018-09-26::Could not save order data.:
+2018-09-26::null:
+2018-09-26::-_- Could not load orders data into memory.:
+2018-09-28::null:
+2018-09-28::null:
+2018-10-01::ERROR: No orders with that order ID  exist on the entered date.:
+2018-10-01::ERROR: No orders with that order ID  exist on the entered date.:
+2018-10-01::-_- Could not load orders data into memory.:
+2018-10-01::-_- Could not load orders data into memory.:
+2018-10-01::-_- Could not load orders data into memory.:
+2018-10-01::-_- Could not load orders data into memory.:
+2018-10-01::-_- Could not load orders data into memory.:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-01::null:
+2018-10-02::null:
+2018-10-02::null:
+2018-10-02::null:
+2018-10-02::null:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::null:
+2018-10-02::null:
+2018-10-02::null:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::null:
+2018-10-02::Could not save order data.:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::null:
+2018-10-02::null:
+2018-10-02::null:
+2018-10-02::ERROR: No orders with that order ID  exist on the entered date.:
+2018-10-02::Could not save order data.:
+2018-10-02::Could not save order data.:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::-_- Could not load orders data into memory.:
+2018-10-02::ERROR: No orders with that order ID  exist on the entered date.:
+2018-10-03::-_- Could not load orders data into memory.:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-03::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::Could not save order data.:
+2018-10-04::null:
+2018-10-04::Could not save order data.:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
+2018-10-04::null:
