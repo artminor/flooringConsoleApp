@@ -1,4 +1,4 @@
-# flooringOOP
+# flooringConsoleApp
 
 The goal of this project is to create an application that can read and write flooring orders for SWG Corp. 
 Topics covered in this section:
