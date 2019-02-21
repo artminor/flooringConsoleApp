@@ -15,8 +15,7 @@ Taxes and product type information can be found in the Data/Taxes.txt and Data/P
 
 Orders_06012013.txt is a sample row of data for one order.
 
-Architectural Component
-Use N-tier development and MVC principles in structuring code to handle products, taxes, and orders appropriately. 
+Architectural Component: Use N-tier development and MVC principles in structuring code to handle products, taxes, and orders appropriately. 
 
 Layers:
 The model package only contain classes that have data members (properties).
