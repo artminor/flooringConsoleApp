@@ -11,7 +11,7 @@ Unit testing
 
 An order consists of an order number, customer name, state, tax rate, product type, area, cost per square foot, labor cost per square foot, material cost, labor cost, tax, and total.
 
-Taxes and product type information can be found in the Data/Taxes.txt and Data/Products.txt files. The customer state and product type entered by a user must match items from these files. This information is read in from the file in both Prod and Training modes.
+Taxes and product type information can be found in the Data/Taxes.txt and Data/Products.txt files. The customer state and product type entered by a user must match items from these files.
 
 Orders_06012013.txt is a sample row of data for one order.
 
